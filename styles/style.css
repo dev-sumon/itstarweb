@@ -1,0 +1,30 @@
+/* h1{
+    color: red;
+    font-size: 50px;
+} */
+ .head1{
+    color: brown;
+    font-size: 30px;
+ }
+ .head2{
+    color: blue;
+ }
+ .head3{
+    color: forestgreen;
+    font-size: 50px;
+ }
+ .head4{
+    color: rgb(71, 32, 4);
+ }
+ .head5{
+    color: pink;
+ }
+.head6{
+    color: yellow;
+    background-color: black;
+    display: inline-block;
+}
+.baki{
+    display: inline-block;
+}
+ 
